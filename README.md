@@ -9,6 +9,7 @@ DataBase: MySQL - Schema Location:
 myFandango / myfandangoo / src / main / resources / myFandangoDb.mwb
 
 Functionalities Available:
+
 ● Search Movies and Theatre
 
 ● Display Shows
